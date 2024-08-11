@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Tile
+    uniqueID: 3645150957
+    locked: 0
+  - name: Wall
+    uniqueID: 4016892601
+    locked: 0
+  - name: Zombie
+    uniqueID: 134165989
+    locked: 0
+  - name: Object
+    uniqueID: 243886087
+    locked: 0
+  - name: Mouse
+    uniqueID: 1262681125
+    locked: 0
